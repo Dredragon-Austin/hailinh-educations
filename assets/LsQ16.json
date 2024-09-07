@@ -1,0 +1,260 @@
+{
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "What are the characteristics of the climate of Southeast Asia?",
+        "choices": [
+          {
+            "text": "Cold and dry",
+            "isCorrect": false
+          },
+          {
+            "text": "Hot and dry",
+            "isCorrect": false
+          },
+          {
+            "text": "Hot, humid, rainy",
+            "isCorrect": false
+          },
+          {
+            "text": "Hot all year round",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest16pic.jpg",
+        "type": "multiple-choice",
+        "question": "Volcanoes and earthquakes often occur in which region of Southeast Asia?",
+        "choices": [
+          {
+            "text": "Island area",
+            "isCorrect": false
+          },
+          {
+            "text": "High mountain area",
+            "isCorrect": false
+          },
+          {
+            "text": "Land area",
+            "isCorrect": false
+          },
+          {
+            "text": "Delta area",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "How many countries are there in Southeast Asia?",
+        "choices": [
+          {
+            "text": "9",
+            "isCorrect": false
+          },
+          {
+            "text": "10",
+            "isCorrect": false
+          },
+          {
+            "text": "11",
+            "isCorrect": false
+          },
+          {
+            "text": "12",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "type": "matching",
+        "question": "Write the names of the countries under their respective national flags:",
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest16.1pic.jpg",
+        "options": [
+          { "id": "a", "name": "Myanmar" },
+          { "id": "b", "name": "Thailand" },
+          { "id": "c", "name": "Cambodia" },
+          { "id": "d", "name": "Indonesia" },
+          { "id": "e", "name": "Laos" },
+          { "id": "f", "name": "Brunei" },
+          { "id": "g", "name": "Singapore" },
+          { "id": "h", "name": "Vietnam" },
+          { "id": "i", "name": "Malaysia" },
+          { "id": "j", "name": "Timor-Leste" }
+        ],
+        "matches": [
+          { "id": "1", "correct": "a" },
+          { "id": "2", "correct": "b" },
+          { "id": "3", "correct": "c" },
+          { "id": "4", "correct": "d" },
+          { "id": "5", "correct": "e" },
+          { "id": "6", "correct": "f" },
+          { "id": "7", "correct": "g" },
+          { "id": "8", "correct": "h" },
+          { "id": "9", "correct": "i" },
+          { "id": "10", "correct": "j" }
+        ]
+      },
+      {
+        "id": 5,
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest16.2pic.jpg",
+
+        "type": "multiple-choice",
+        "question": "Which country is most affected by storms in Southeast Asia?",
+        "choices": [
+          {
+            "text": "Myanmar",
+            "isCorrect": false
+          },
+          {
+            "text": "Philippines",
+            "isCorrect": false
+          },
+          {
+            "text": "Laos",
+            "isCorrect": false
+          },
+          {
+            "text": "Vietnam",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest16.3pic.jpg",
+
+        "type": "multiple-choice",
+        "question": "What is the name of the largest freshwater lake (located in Siem Reap - Cambodia) in Southeast Asia?",
+        "choices": [
+          {
+            "text": "Tonle Sap",
+            "isCorrect": false
+          },
+          {
+            "text": "Victoria",
+            "isCorrect": false
+          },
+          {
+            "text": "Baikal",
+            "isCorrect": false
+          },
+          {
+            "text": "Hồ Tây",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest16.4pic.jpg",
+
+        "type": "multiple-choice",
+        "question": "Which country has the largest population in Southeast Asia?",
+        "choices": [
+          {
+            "text": "Myanmar",
+            "isCorrect": false
+          },
+          {
+            "text": "Philippines",
+            "isCorrect": false
+          },
+          {
+            "text": "Indonesia",
+            "isCorrect": false
+          },
+          {
+            "text": "Vietnam",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest16.5pic.jpg",
+
+        "type": "multiple-choice",
+        "question": "What is the abbreviation for the Association of Southeast Asian Nations?",
+        "choices": [
+          {
+            "text": "ASEAN",
+            "isCorrect": false
+          },
+          {
+            "text": "AFTA",
+            "isCorrect": false
+          },
+          {
+            "text": "UNESCO",
+            "isCorrect": false
+          },
+          {
+            "text": "NATO",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "type": "multiple-choice",
+        "question": "Where is the headquarters of the Association of Southeast Asian Nations located?",
+        "choices": [
+          {
+            "text": "Hanoi – Vietnam",
+            "isCorrect": false
+          },
+          {
+            "text": "Jakarta – Indonesia",
+            "isCorrect": false
+          },
+          {
+            "text": "Singapore",
+            "isCorrect": false
+          },
+          {
+            "text": "Manila – the Philipines",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "type": "matching",
+        "question": "Match the Southeast Asian countries with their respective capitals.",
+        "options": [
+          { "id": "hanoi", "capital": "Hanoi" },
+          { "id": "vientiane", "capital": "Vientiane" },
+          { "id": "phnompenh", "capital": "Phnom Penh" },
+          { "id": "bangkok", "capital": "Bangkok" },
+          { "id": "bandarseri", "capital": "Bandar Seri Begawan" },
+          { "id": "naypyidaw", "capital": "Naypyidaw" },
+          { "id": "manila", "capital": "Manila" },
+          { "id": "singapore", "capital": "Singapore" },
+          { "id": "kualalumpur", "capital": "Kuala Lumpur" },
+          { "id": "jakarta", "capital": "Jakarta" },
+          { "id": "dili", "capital": "Dili" }
+        ],
+        "matches": [
+          { "id": "m1", "country": "Vietnam", "correct": "hanoi" },
+          { "id": "m2", "country": "Laos", "correct": "vientiane" },
+          { "id": "m3", "country": "Cambodia", "correct": "phnompenh" },
+          { "id": "m4", "country": "Thailand", "correct": "bangkok" },
+          { "id": "m5", "country": "Brunei", "correct": "bandarseri" },
+          { "id": "m6", "country": "Myanmar", "correct": "naypyidaw" },
+          { "id": "m7", "country": "The Philippines", "correct": "manila" },
+          { "id": "m8", "country": "Singapore", "correct": "singapore" },
+          { "id": "m9", "country": "Malaysia", "correct": "kualalumpur" },
+          { "id": "m10", "country": "Indonesia", "correct": "jakarta" },
+          { "id": "m11", "country": "Timor-Leste", "correct": "dili" }
+        ]
+      }
+    ]
+  }
+}

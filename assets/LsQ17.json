@@ -1,0 +1,291 @@
+{
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "Which province/city does Vung Tau city belong to in our country?",
+        "choices": [
+          {
+            "text": "Bà Rịa",
+            "isCorrect": false
+          },
+          {
+            "text": "Bình Dương",
+            "isCorrect": false
+          },
+          {
+            "text": "Hồ Chí Minh City",
+            "isCorrect": false
+          },
+          {
+            "text": "Bà Rịa - Vũng Tàu",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "Which islands belong to Vung Tau city?",
+        "choices": [
+          {
+            "text": "Tuần Châu, Phú Quốc",
+            "isCorrect": false
+          },
+          {
+            "text": "Cái Bầu, Bạch Long Vĩ",
+            "isCorrect": false
+          },
+          {
+            "text": "Cát Bà, Côn Đảo",
+            "isCorrect": false
+          },
+          {
+            "text": "Long Sơn, Gò Găng",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "How large is Vung Tau city?",
+        "choices": [
+          {
+            "text": "141.5 square kilometer",
+            "isCorrect": false
+          },
+          {
+            "text": "140.1 square kilometer",
+            "isCorrect": false
+          },
+          {
+            "text": "141.1 square kilometer",
+            "isCorrect": false
+          },
+          {
+            "text": "111.1 square kilometer",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "How many kilometers long is Vung Tau city's coastline?",
+        "choices": [
+          {
+            "text": "24 kilometers",
+            "isCorrect": false
+          },
+          {
+            "text": "42 kilometers",
+            "isCorrect": false
+          },
+          {
+            "text": "45 kilometers",
+            "isCorrect": false
+          },
+          {
+            "text": "52 kilometers",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "type": "multiple-choice",
+        "question": "Which two famous mountains does Vung Tau city have?",
+        "choices": [
+          {
+            "text": "Ngọc Linh Mountain, Tây Côn Lĩnh Mountain",
+            "isCorrect": false
+          },
+          {
+            "text": "Bà Đen Mountain, Chúa Mountain",
+            "isCorrect": false
+          },
+          {
+            "text": "Phan-xi-păng Mountain, Mẫu Sơn Mountain",
+            "isCorrect": false
+          },
+          {
+            "text": "Lớn Mountain, Nhỏ Mountain",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "type": "multiple-choice",
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest17pic.jpg",
+        "question": "How many kilometers long is Sau beach?",
+        "choices": [
+          {
+            "text": "More than 10 kilometers",
+            "isCorrect": false
+          },
+          {
+            "text": "42 kilometers",
+            "isCorrect": false
+          },
+          {
+            "text": "More than 20 kilometers",
+            "isCorrect": false
+          },
+          {
+            "text": "More than 40 kilometers",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest17.1pic.jpg",
+
+        "type": "multiple-choice",
+        "question": "What is another name for Trước beach?",
+        "choices": [
+          {
+            "text": "Thùy Vân",
+            "isCorrect": false
+          },
+          {
+            "text": "Tầm Dương",
+            "isCorrect": false
+          },
+          {
+            "text": "Vọng Nguyệt",
+            "isCorrect": false
+          },
+          {
+            "text": "Bãi Dâu",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest17.2pic.jpg",
+
+        "type": "multiple-choice",
+        "question": "On which mountain is the statue of Christ located?",
+        "choices": [
+          {
+            "text": "Chúa Mountain",
+            "isCorrect": false
+          },
+          {
+            "text": "Lớn Mountain",
+            "isCorrect": false
+          },
+          {
+            "text": "Nhỏ Mountain",
+            "isCorrect": false
+          },
+          {
+            "text": "Bà Đen Mountain",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest17.3pic.jpg",
+
+        "type": "multiple-choice",
+        "question": "What is the name of the road at the foot of Nhỏ Mountain?",
+        "choices": [
+          {
+            "text": "Trường Sơn",
+            "isCorrect": false
+          },
+          {
+            "text": "Trần Phú",
+            "isCorrect": false
+          },
+          {
+            "text": "Hạ Long",
+            "isCorrect": false
+          },
+          {
+            "text": "Cửu Long",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest17.4pic.jpg",
+
+        "type": "multiple-choice",
+        "question": "When was the White Palace in Vung Tau built?",
+        "choices": [
+          {
+            "text": "18th century",
+            "isCorrect": false
+          },
+          {
+            "text": "19th century",
+            "isCorrect": false
+          },
+          {
+            "text": "17th century",
+            "isCorrect": false
+          },
+          {
+            "text": "20th century",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "type": "multiple-choice",
+        "question": "What is another name for Sau beach?",
+        "choices": [
+          {
+            "text": "Thùy Vân",
+            "isCorrect": false
+          },
+          {
+            "text": "Tầm Dương",
+            "isCorrect": false
+          },
+          {
+            "text": "Vọng Nguyệt",
+            "isCorrect": false
+          },
+          {
+            "text": "Bãi Dâu",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "type": "multiple-choice",
+        "question": "What is another name for Nhỏ mountain?",
+        "choices": [
+          {
+            "text": "Tao Phùng mountain",
+            "isCorrect": false
+          },
+          {
+            "text": "Lớn Mountain",
+            "isCorrect": false
+          },
+          {
+            "text": "Nhỏ Mountain",
+            "isCorrect": false
+          },
+          {
+            "text": "Bà Đen Mountain",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+}

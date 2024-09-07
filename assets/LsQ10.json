@@ -1,0 +1,190 @@
+{
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "type": "matching",
+        "question": "Match the following buildings to their correct names:",
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest10pic.jpg",
+        "options": [
+          { "id": "a", "name": "Saigon Central Post Office" },
+          { "id": "b", "name": "Independence Palace" },
+          { "id": "c", "name": "Hanoi Opera House" },
+          { "id": "d", "name": "Saigon Notre-Dame Cathedral Basilica" }
+        ],
+        "matches": [
+          { "id": "1", "correct": "b" },
+          { "id": "2", "correct": "d" },
+          { "id": "3", "correct": "a" },
+          { "id": "4", "correct": "c" }
+        ]
+      },
+
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "What is another name for Independence Palace?",
+        "choices": [
+          {
+            "text": "Gia Long Palace",
+            "isCorrect": false
+          },
+          {
+            "text": "Norodom Palace",
+            "isCorrect": false
+          },
+          {
+            "text": "Parliament Building",
+            "isCorrect": false
+          },
+          {
+            "text": "National Convention Center",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "Independence Palace is associated with which historical event?",
+        "choices": [
+          {
+            "text": "Nam Kì Uprising",
+            "isCorrect": false
+          },
+          {
+            "text": "Sô Viết Nghệ Tĩnh movement",
+            "isCorrect": false
+          },
+          {
+            "text": "Unification of the country",
+            "isCorrect": false
+          },
+          {
+            "text": "Uncle Ho read the Declaration of Independence",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "Which famous place is next to Saigon Notre-Dame Cathedral?",
+        "choices": [
+          {
+            "text": "City People's Committee",
+            "isCorrect": false
+          },
+          {
+            "text": "Hồ Chí Minh City Post Office",
+            "isCorrect": false
+          },
+          {
+            "text": "Vietnam History Museum",
+            "isCorrect": false
+          },
+          {
+            "text": "Bến Thành Market",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "type": "multiple-choice",
+        "question": "What historical event is Nhà Rồng Wharf associated with?",
+        "choices": [
+          {
+            "text": "French colonialists invaded Vietnam",
+            "isCorrect": false
+          },
+          {
+            "text": "Uncle Ho went to find a way to save the country",
+            "isCorrect": false
+          },
+          {
+            "text": "Offensive and uprising in the spring of Mậu Thân",
+            "isCorrect": false
+          },
+          {
+            "text": "Liberation Day of the South",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "type": "multiple-choice",
+        "question": "The Cu Chi Tunnels are among the six renowned man-made structures globally. Furthermore, the Cu Chi Tunnels tourist site is listed as one of the top 7 most peculiar destinations in Southeast Asia. This location is known as:",
+        "choices": [
+          {
+            "text": "The largest man-made city",
+            "isCorrect": false
+          },
+          {
+            "text": "City in the ground",
+            "isCorrect": false
+          },
+          {
+            "text": "Secret War Zone",
+            "isCorrect": false
+          },
+          {
+            "text": "Secret Fortress",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest10.1pic.jpg",
+
+        "type": "multiple-choice",
+        "question": "The temple of Literature is not only the first university in our country but also like a candle always burning, illuminating the scholarly tradition of the Vietnamese people. In which city/province of our country is this famous place located?",
+        "choices": [
+          {
+            "text": "Hồ Chí Minh City",
+            "isCorrect": false
+          },
+          {
+            "text": "Hà Nội",
+            "isCorrect": false
+          },
+          {
+            "text": "Nam Định",
+            "isCorrect": false
+          },
+          {
+            "text": "Hải Dương",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest10.2pic.jpg",
+
+        "type": "multiple-choice",
+        "question": "The Ho Chi Minh City Post Office is among the top 11 most beautiful post offices in the world, thanks to preserving the distinctive Western architectural style for over 130 years. What national architectural characteristics does this construction express?",
+        "choices": [
+          {
+            "text": "America",
+            "isCorrect": false
+          },
+          {
+            "text": "Belgium",
+            "isCorrect": false
+          },
+          {
+            "text": "Cambodia",
+            "isCorrect": false
+          },
+          {
+            "text": "France",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+}

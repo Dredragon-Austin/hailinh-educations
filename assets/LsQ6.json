@@ -1,0 +1,192 @@
+{
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "What is actually the Dead Sea?",
+        "choices": [
+          {
+            "text": "an ocean",
+            "isCorrect": false
+          },
+          {
+            "text": "a saltwater lake",
+            "isCorrect": false
+          },
+          {
+            "text": "a sea bay",
+            "isCorrect": false
+          },
+          {
+            "text": "a freshwater lake",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "The Dead Sea lies between which areas?",
+        "choices": [
+          {
+            "text": "Vietnam, China, Myanmar",
+            "isCorrect": false
+          },
+          {
+            "text": "West Bank, Israel, Jordan",
+            "isCorrect": false
+          },
+          {
+            "text": "China, Nepal, India",
+            "isCorrect": false
+          },
+          {
+            "text": "USA, Canada",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "What species are in the Dead Sea ecosystem?",
+        "choices": [
+          {
+            "text": "There are all kinds of species on the Earth",
+            "isCorrect": false
+          },
+          {
+            "text": "A wide variety of plants",
+            "isCorrect": false
+          },
+          {
+            "text": "Only some microorganisms",
+            "isCorrect": false
+          },
+          {
+            "text": "Only amphibians",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "Due to the high salinity of the water, what can tourists do in the Dead Sea?",
+        "choices": [
+          {
+            "text": "Floating on the water even though I can't swim",
+            "isCorrect": false
+          },
+          {
+            "text": "Running on water",
+            "isCorrect": false
+          },
+          {
+            "text": "Using dead sea water as a seasoning",
+            "isCorrect": false
+          },
+          {
+            "text": "Quickly sinking to the bottom",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "type": "multiple-choice",
+        "question": "What are the outstanding features that make the Dead Sea attractive to tourists?",
+        "choices": [
+          {
+            "text": "Diverse nature",
+            "isCorrect": false
+          },
+          {
+            "text": "Cool climate",
+            "isCorrect": false
+          },
+          {
+            "text": "The ability to heal",
+            "isCorrect": false
+          },
+          {
+            "text": "Long history",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "type": "multiple-choice",
+        "question": "What are the dermatological diseases that Dead Sea water can treat?",
+        "choices": [
+          {
+            "text": "Ringworm",
+            "isCorrect": false
+          },
+          {
+            "text": "Psoriasis, pimples",
+            "isCorrect": false
+          },
+          {
+            "text": "Dermatitis",
+            "isCorrect": false
+          },
+          {
+            "text": "Eczema",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "type": "multiple-choice",
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest6pic.jpg",
+
+        "question": "The Dead Sea is an attractive tourist destination for travelers. Its beauty creates a virtual living picture on social media. What is the most appealing feature?",
+        "choices": [
+          {
+            "text": "Ability to cure certain skin conditions",
+            "isCorrect": false
+          },
+          {
+            "text": "Cool climate",
+            "isCorrect": false
+          },
+          {
+            "text": "The presence of beautiful forests",
+            "isCorrect": false
+          },
+          {
+            "text": "Abundance of rare and exotic wildlife",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "type": "multiple-choice",
+        "question": "The Dead Sea is surrounded by which two countries?",
+        "choices": [
+          {
+            "text": "Syria and Lebanon",
+            "isCorrect": false
+          },
+          {
+            "text": "Jordan and Israel",
+            "isCorrect": false
+          },
+          {
+            "text": "Egypt and Saudi Arabia",
+            "isCorrect": false
+          },
+          {
+            "text": "Turkey and Syria",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+}

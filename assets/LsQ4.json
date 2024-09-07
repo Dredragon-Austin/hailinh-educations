@@ -1,0 +1,194 @@
+{
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "The poem Nam Quoc Son Ha is considered the first Declaration of Independence of our country. Who is the author of that poem?",
+        "choices": [
+          {
+            "text": "Lý Thường Kiệt",
+            "isCorrect": false
+          },
+          {
+            "text": "Lý Công Uẩn",
+            "isCorrect": false
+          },
+          {
+            "text": "Lý Bí",
+            "isCorrect": false
+          },
+          {
+            "text": "Lý Chiêu Hoàng",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "The young general is famous for the story of crushing an orange and the saying “Break the strong enemy, repay the king” Who is that?",
+        "choices": [
+          {
+            "text": "Lê Lợi",
+            "isCorrect": false
+          },
+          {
+            "text": "Lê Lai",
+            "isCorrect": false
+          },
+          {
+            "text": "Trần Quốc Toản",
+            "isCorrect": false
+          },
+          {
+            "text": "Trần Quang Diệu",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "“I would rather be the devil of the South than the king of the North”. Who said the statement?",
+        "choices": [
+          {
+            "text": "Trần Ích Tắc",
+            "isCorrect": false
+          },
+          {
+            "text": "Trần Bình Trọng",
+            "isCorrect": false
+          },
+          {
+            "text": "Trần Quốc Toản",
+            "isCorrect": false
+          },
+          {
+            "text": "Đặng Dung",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "Read the following poem:",
+        "choices": [
+          {
+            "text": "Nam Quốc Sơn Hà",
+            "isCorrect": false
+          },
+          {
+            "text": "Bình Ngô Đại Cáo",
+            "isCorrect": false
+          },
+          {
+            "text": "Bài ca Côn Sơn",
+            "isCorrect": false
+          },
+          {
+            "text": "Bài ca yêu nước",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "type": "multiple-choice",
+        "question": "He was a distinguished military commander, leading the Trần dynasty's forces to victory three times against the invading Yuan-Mongol armies. He is ranked as one of the top 10 greatest generals in world history.",
+        "choices": [
+          {
+            "text": "Trần Ích Tắc",
+            "isCorrect": false
+          },
+          {
+            "text": "Trần Bình Trọng",
+            "isCorrect": false
+          },
+          {
+            "text": "Trần Quốc Toản",
+            "isCorrect": false
+          },
+          {
+            "text": "Trần Hưng Đạo",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "type": "multiple-choice",
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest4pic.jpg",
+
+        "question": "She is a famous female general known for her courage and patriotism. She is renowned for the phrase \"I will never bend my back as a concubine for anyone.” Who is she?",
+        "choices": [
+          {
+            "text": "Triệu Thị Trinh",
+            "isCorrect": false
+          },
+          {
+            "text": "Hai Bà Trưng",
+            "isCorrect": false
+          },
+          {
+            "text": "Hồ Xuân Hương",
+            "isCorrect": false
+          },
+          {
+            "text": "Lê Chân",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "type": "matching",
+        "question": "Match the historical figures with their associated information:",
+        "options": [
+          { "id": "1", "info": "Crushing an orange." },
+          { "id": "2", "info": "The poem Nam Quốc Sơn Hà" },
+          {
+            "id": "3",
+            "info": "I will never bend my back as a concubine for anyone."
+          },
+          {
+            "id": "4",
+            "info": "I would rather be the devil of the South than the king of the North"
+          },
+          {
+            "id": "5",
+            "info": "The distinguished general who won three victories against the Mongol Yuan armies."
+          }
+        ],
+        "matches": [
+          {
+            "id": "m1",
+            "name": "Trần Hưng Đạo",
+            "correct": "5"
+          },
+          {
+            "id": "m2",
+            "name": "Triệu Thị Trinh",
+            "correct": "3"
+          },
+          {
+            "id": "m3",
+            "name": "Trần Bình Trọng",
+            "correct": "4"
+          },
+          {
+            "id": "m4",
+            "name": "Trần Quốc Toản",
+            "correct": "1"
+          },
+          {
+            "id": "m5",
+            "name": "Lý Thường Kiệt",
+            "correct": "2"
+          }
+        ]
+      }
+    ]
+  }
+}

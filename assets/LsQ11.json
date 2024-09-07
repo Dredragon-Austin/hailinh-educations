@@ -1,0 +1,198 @@
+{
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest11pic.jpg",
+
+        "type": "multiple-choice",
+        "question": "Ten young female volunteers died in the Vietnam War in a US Air Force bombardment. Which place is that?",
+        "choices": [
+          {
+            "text": "Khe Sanh",
+            "isCorrect": false
+          },
+          {
+            "text": "Ngã Tư Bảy Hiền",
+            "isCorrect": false
+          },
+          {
+            "text": "Ngã Ba Đồng Lộc",
+            "isCorrect": false
+          },
+          {
+            "text": "Ngã Ba Giồng",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "Who planted the bomb to assassinate McNamara’s delegation ( May 1964 ), when he was on the court, he still resolutely shouted “Long live the Ho Chi Minh, long live the Vietnam” ?",
+        "choices": [
+          {
+            "text": "Trần Văn Ơn",
+            "isCorrect": false
+          },
+          {
+            "text": "Lý Tự Trọng",
+            "isCorrect": false
+          },
+          {
+            "text": "Trần Đại Nghĩa",
+            "isCorrect": false
+          },
+          {
+            "text": "Nguyễn Văn Trỗi",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "What is the name of the bridge where Nguyễn Văn Trỗi planted the bomb?",
+        "choices": [
+          {
+            "text": "Trường Đai bridge",
+            "isCorrect": false
+          },
+          {
+            "text": "Gò Dưa bridge",
+            "isCorrect": false
+          },
+          {
+            "text": "Công Lý bridge",
+            "isCorrect": false
+          },
+          {
+            "text": "Ông Lãnh bridge",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "Who is the famous person with the saying “Aim at the enemy, shoot!” ?",
+        "choices": [
+          {
+            "text": "Nguyễn Viết Xuân",
+            "isCorrect": false
+          },
+          {
+            "text": "Phan Đình Giót",
+            "isCorrect": false
+          },
+          {
+            "text": "Tô Vĩnh Diện",
+            "isCorrect": false
+          },
+          {
+            "text": "La Văn Cầu",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "type": "multiple-choice",
+        "question": "Labor Hero Tran Dai Nghia - a steadfast communist, a great scientist of the Vietnamese revolution, and an outstanding student of President Ho Chi Minh.",
+        "choices": [
+          {
+            "text": "Tiền Giang",
+            "isCorrect": false
+          },
+          {
+            "text": "Kiên Giang",
+            "isCorrect": false
+          },
+          {
+            "text": "Vĩnh Long",
+            "isCorrect": false
+          },
+          {
+            "text": "Cần Thơ",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest11.1pic.jpg",
+
+        "type": "multiple-choice",
+        "question": "At the Paris Peace Accords in 1973, she was one of the representatives for the parties and also the only woman to sign the agreement. Who is she?",
+        "choices": [
+          {
+            "text": "Nguyễn Thị Bình",
+            "isCorrect": false
+          },
+          {
+            "text": "Nguyễn Thị Minh Khai",
+            "isCorrect": false
+          },
+          {
+            "text": "Nguyễn Thị Út",
+            "isCorrect": false
+          },
+          {
+            "text": "Trương Mỹ Hoa",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "type": "multiple-choice",
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest11.2pic.jpg",
+
+        "question": "At this location, ten young female volunteers sacrificed themselves while avoiding bombs in a shelter. They gave their lives at the prime of their youth. Where is legendary road located?",
+        "choices": [
+          {
+            "text": "Quảng Bình",
+            "isCorrect": false
+          },
+          {
+            "text": "Hà Tĩnh",
+            "isCorrect": false
+          },
+          {
+            "text": "Thừa Thiên Huế",
+            "isCorrect": false
+          },
+          {
+            "text": "Quảng Trị",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "type": "multiple-choice",
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest11.2pic.jpg",
+
+        "question": "Nguyễn Thị Bình is one of the outstanding diplomats in the history of Vietnam and the world. The statement: \"Americans are very excellent; they can go to the moon and successfully return. But when they come to Vietnam, we're not sure,\" was her response to Western media at the Paris Conference in 1972. When providing that answer to the press, she spoke in the language of which country?",
+        "choices": [
+          {
+            "text": "Engish",
+            "isCorrect": false
+          },
+          {
+            "text": "Vietnamese",
+            "isCorrect": false
+          },
+          {
+            "text": "French",
+            "isCorrect": false
+          },
+          {
+            "text": "Spanish",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+}

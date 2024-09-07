@@ -1,0 +1,285 @@
+{
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "What region of our country is Ho Chi Minh City in?",
+        "choices": [
+          {
+            "text": "Central Highlands",
+            "isCorrect": false
+          },
+          {
+            "text": "Northeast",
+            "isCorrect": false
+          },
+          {
+            "text": "Northwest",
+            "isCorrect": false
+          },
+          {
+            "text": "Southeast",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "How big is Ho Chi Minh City?",
+        "choices": [
+          {
+            "text": "1 095,39 square kilometers",
+            "isCorrect": false
+          },
+          {
+            "text": "2 095,39 square kilometers",
+            "isCorrect": false
+          },
+          {
+            "text": "3 095,39 square kilometers",
+            "isCorrect": false
+          },
+          {
+            "text": "4 095,39 square kilometers",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "What is the population of Ho Chi Minh City in 2019?",
+        "choices": [
+          {
+            "text": "6,04 million people",
+            "isCorrect": false
+          },
+          {
+            "text": "7,04 million people",
+            "isCorrect": false
+          },
+          {
+            "text": "8,04 million people",
+            "isCorrect": false
+          },
+          {
+            "text": "9,04 million people",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "How much population density does Ho Chi Minh have?",
+        "choices": [
+          {
+            "text": "2 314 people/ square kilometers",
+            "isCorrect": false
+          },
+          {
+            "text": "3 314 people/ square kilometers",
+            "isCorrect": false
+          },
+          {
+            "text": "4 314 people/ square kilometers",
+            "isCorrect": false
+          },
+          {
+            "text": "5 314 people/ square kilometers",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "type": "multiple-choice",
+        "question": "Which inner district/ suburban district has the highest population density in the HCM city?",
+        "choices": [
+          {
+            "text": "Gò Vấp",
+            "isCorrect": false
+          },
+          {
+            "text": "District 4",
+            "isCorrect": false
+          },
+          {
+            "text": "District 10",
+            "isCorrect": false
+          },
+          {
+            "text": "Cần Giờ",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "type": "multiple-choice",
+        "question": "Which inner district/ suburban district has the lowest population density in the Ho Chi Minh city?",
+        "choices": [
+          {
+            "text": "Gò Vấp",
+            "isCorrect": false
+          },
+          {
+            "text": "Tân Bình",
+            "isCorrect": false
+          },
+          {
+            "text": "Phú Nhuận",
+            "isCorrect": false
+          },
+          {
+            "text": "Cần Giờ",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "type": "multiple-choice",
+        "question": "Which of the following provinces does not border Ho Chi Minh City?",
+        "choices": [
+          {
+            "text": "Đồng Nai",
+            "isCorrect": false
+          },
+          {
+            "text": "Bà Rịa - Vũng Tàu",
+            "isCorrect": false
+          },
+          {
+            "text": "Long An",
+            "isCorrect": false
+          },
+          {
+            "text": "Đồng Tháp",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "type": "multiple-choice",
+        "question": "How many inner districts does Ho Chi Minh have?",
+        "choices": [
+          {
+            "text": "5.",
+            "isCorrect": false
+          },
+          {
+            "text": "10",
+            "isCorrect": false
+          },
+          {
+            "text": "16",
+            "isCorrect": false
+          },
+          {
+            "text": "21",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "type": "multiple-choice",
+        "question": "How many suburban districts does Ho Chi Minh have?",
+        "choices": [
+          {
+            "text": "5",
+            "isCorrect": false
+          },
+          {
+            "text": "10",
+            "isCorrect": false
+          },
+          {
+            "text": "16",
+            "isCorrect": false
+          },
+          {
+            "text": "21",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "type": "multiple-choice",
+        "question": "What airport does Ho Chi Minh have?",
+        "choices": [
+          {
+            "text": "Nội Bài",
+            "isCorrect": false
+          },
+          {
+            "text": "Đà Nẵng",
+            "isCorrect": false
+          },
+          {
+            "text": "Tân Sơn Nhất",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "type": "multiple-choice",
+        "question": "This is a famous architectural project in Ho Chi Minh city. What is its name?",
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest2pic.jpg",
+        "choices": [
+          {
+            "text": "Nội Bài",
+            "isCorrect": false
+          },
+          {
+            "text": "Đà Nẵng",
+            "isCorrect": false
+          },
+          {
+            "text": "Tân Sơn Nhất",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 112,
+        "type": "matching",
+        "question": "Matching information in column A and column B correctly:",
+        "options": [
+          { "id": "1", "year": "2095.39 square kilometers" },
+          { "id": "2", "year": "Thu Duc city" },
+          { "id": "3", "year": "21" },
+          { "id": "4", "year": "9.04 Milion people" }
+        ],
+        "matches": [
+          {
+            "id": "m1",
+            "event": "Population of Ho Chi Minh City in 2019",
+            "correct": "4"
+          },
+          {
+            "id": "m2",
+            "event": "Area of Ho Chi Minh City",
+            "correct": "1"
+          },
+          {
+            "id": "m3",
+            "event": "The district is formed from District 9, District 2 and Thu Duc District",
+            "correct": "2"
+          },
+          {
+            "id": "m4",
+            "event": "Number of districts in Ho Chi Minh City",
+            "correct": "3"
+          }
+        ]
+      }
+    ]
+  }
+}

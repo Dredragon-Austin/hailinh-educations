@@ -1,0 +1,244 @@
+{
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "Which king was the leader of victorious Battle of Bạch Đằng River against the enemy in 981?",
+        "choices": [
+          {
+            "text": "Lê Đại Hành",
+            "isCorrect": false
+          },
+          {
+            "text": "Trần Nhân Tông",
+            "isCorrect": false
+          },
+          {
+            "text": "Ngô Quyền",
+            "isCorrect": false
+          },
+          {
+            "text": "Đinh Tiên Hoàng",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest14pic.jpg",
+
+        "type": "multiple-choice",
+        "question": "The victory at Bạch Đằng in 981 drove which invading army out of our country?",
+        "choices": [
+          {
+            "text": "Tống",
+            "isCorrect": false
+          },
+          {
+            "text": "Ngô",
+            "isCorrect": false
+          },
+          {
+            "text": "Đường",
+            "isCorrect": false
+          },
+          {
+            "text": "Nam Hán",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "Who was the commander of the Tống army that invaded our country in 981?",
+        "choices": [
+          {
+            "text": "Hầu Nhân Bảo",
+            "isCorrect": false
+          },
+          {
+            "text": "Lưu Cung",
+            "isCorrect": false
+          },
+          {
+            "text": "Lưu Hoằng Tháo",
+            "isCorrect": false
+          },
+          {
+            "text": "Trình Tri Tiết",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "What was the reign name set by Lê Đại Hành when he ascended the throne in our country?",
+        "choices": [
+          {
+            "text": "Thiên Phúc",
+            "isCorrect": false
+          },
+          {
+            "text": "Thiên Đức",
+            "isCorrect": false
+          },
+          {
+            "text": "Thái Bình",
+            "isCorrect": false
+          },
+          {
+            "text": "Hưng Thống",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "type": "multiple-choice",
+        "question": "What is King Le Dai Hanh's real name?",
+        "choices": [
+          {
+            "text": "Lê Lợi",
+            "isCorrect": false
+          },
+          {
+            "text": "Lê Lai",
+            "isCorrect": false
+          },
+          {
+            "text": "Lê Chiêu Thống",
+            "isCorrect": false
+          },
+          {
+            "text": "Lê Hoàn",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "type": "multiple-choice",
+        "question": "In which year were King Dinh Tien Hoang and his crown prince Dinh Lien assassinated?",
+        "choices": [
+          {
+            "text": "989",
+            "isCorrect": false
+          },
+          {
+            "text": "979",
+            "isCorrect": false
+          },
+          {
+            "text": "879",
+            "isCorrect": false
+          },
+          {
+            "text": "978",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "type": "multiple-choice",
+        "question": "Where did King Le Dai Hanh establish his capital?",
+        "choices": [
+          {
+            "text": "Hoa Lư",
+            "isCorrect": false
+          },
+          {
+            "text": "Thăng Long",
+            "isCorrect": false
+          },
+          {
+            "text": "Thọ Xuân",
+            "isCorrect": false
+          },
+          {
+            "text": "Cổ Loa",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "type": "multiple-choice",
+        "question": "What is the national name of our country during the reign of King Le Dai Hanh?",
+        "choices": [
+          {
+            "text": "Đại Việt",
+            "isCorrect": false
+          },
+          {
+            "text": "Đại Nam",
+            "isCorrect": false
+          },
+          {
+            "text": "Đại Cồ Việt",
+            "isCorrect": false
+          },
+          {
+            "text": "Đại Ngu",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest14.1pic.jpg",
+
+        "type": "multiple-choice",
+        "question": "When did the second battle on the Bạch Đằng River take place?",
+        "choices": [
+          {
+            "text": "28 April, 981",
+            "isCorrect": false
+          },
+          {
+            "text": "26 July, 981",
+            "isCorrect": false
+          },
+          {
+            "text": "24 August, 981",
+            "isCorrect": false
+          },
+          {
+            "text": "28 May, 981",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "type": "matching",
+        "question": "Match the Battle of Bạch Đằng with the corresponding invaders:",
+        "options": [
+          { "id": "1", "invaders": "Mongol invaders" },
+          { "id": "2", "invaders": "Southern Han invaders" },
+          { "id": "3", "invaders": "Song invaders" }
+        ],
+        "matches": [
+          {
+            "id": "m1",
+            "battle": "Battle of Bạch Đằng 938",
+            "correct": "2"
+          },
+          {
+            "id": "m2",
+            "battle": "Battle of Bạch Đằng 981",
+            "correct": "3"
+          },
+          {
+            "id": "m3",
+            "battle": "Battle of Bạch Đằng 1288",
+            "correct": "1"
+          }
+        ]
+      }
+    ]
+  }
+}
