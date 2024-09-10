@@ -1,0 +1,197 @@
+{
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest9pic.jpg",
+
+        "question": "The path of youth is only a revolutionary path, there can be no other way. Who said the sentence?",
+        "choices": [
+          {
+            "text": "Trần Văn Ơn",
+            "isCorrect": false
+          },
+          {
+            "text": "Lý Tự Trọng",
+            "isCorrect": false
+          },
+          {
+            "text": "Trần Đại Nghĩa",
+            "isCorrect": false
+          },
+          {
+            "text": "Nguyễn Văn Trỗi",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest9.1pic.jpg",
+
+        "question": "Who used his body to insert artillery during the Điện Biên Phủ campaign?",
+        "choices": [
+          {
+            "text": "Tô Vĩnh Diện",
+            "isCorrect": false
+          },
+          {
+            "text": "Cù Chính Lan",
+            "isCorrect": false
+          },
+          {
+            "text": "La Văn Cầu",
+            "isCorrect": false
+          },
+          {
+            "text": "Bế Văn Đàn",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+
+        "question": "Who used his body to close the loophole during the Điện Biên Phủ campaign?",
+        "choices": [
+          {
+            "text": "Phan Đình Giót",
+            "isCorrect": false
+          },
+          {
+            "text": "Tô Vĩnh Diện",
+            "isCorrect": false
+          },
+          {
+            "text": "La Văn Cầu",
+            "isCorrect": false
+          },
+          {
+            "text": "Nguyễn Văn Trỗi",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest9.2pic.jpg",
+
+        "question": "Who used his body as a gun stand, contributing to the Điện Biên Phủ victory?",
+        "choices": [
+          {
+            "text": "Bế Văn Đàn",
+            "isCorrect": false
+          },
+          {
+            "text": "Phan Đình Giót",
+            "isCorrect": false
+          },
+          {
+            "text": "Tô Vĩnh Diện",
+            "isCorrect": false
+          },
+          {
+            "text": "La Văn Cầu",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "type": "multiple-choice",
+        "question": "The heroic daughter of the Red Land was sentenced to death by the French colonialists when she was not yet 19 years old. Who is she?",
+        "choices": [
+          {
+            "text": "Bùi Thị Xuân",
+            "isCorrect": false
+          },
+          {
+            "text": "Võ Thị Sáu",
+            "isCorrect": false
+          },
+          {
+            "text": "Nguyễn Thị Minh Khai",
+            "isCorrect": false
+          },
+          {
+            "text": "Nguyễn Thị Bình",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "type": "multiple-choice",
+        "question": "He is the first member of the Ho Chi Minh Communist Youth Union, who is he?",
+        "choices": [
+          {
+            "text": "Lý Tự Trọng",
+            "isCorrect": false
+          },
+          {
+            "text": "Tô Vĩnh Diện",
+            "isCorrect": false
+          },
+          {
+            "text": "La Văn Cầu",
+            "isCorrect": false
+          },
+          {
+            "text": "Nguyễn Văn Trỗi",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "type": "multiple-choice",
+        "question": "Who soldier asked his comrades to amputate his broken arm to continue fighting?",
+        "choices": [
+          {
+            "text": "Bế Văn Đàn",
+            "isCorrect": false
+          },
+          {
+            "text": "La Văn Cầu",
+            "isCorrect": false
+          },
+          {
+            "text": "Phan Đình Giót",
+            "isCorrect": false
+          },
+          {
+            "text": "Tô Vĩnh Diện",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "type": "multiple-choice",
+        "question": "Who was the student leading the group of students from Pétrus Ký School in the January 1950 protest, sacrificing his life while protecting and sheltering the younger students behind?",
+        "choices": [
+          {
+            "text": "Nguyễn Thái Bình",
+            "isCorrect": false
+          },
+          {
+            "text": "Trần Văn Ơn",
+            "isCorrect": false
+          },
+          {
+            "text": "Lý Tự Trọng",
+            "isCorrect": false
+          },
+          {
+            "text": "Kim Đồng",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+}

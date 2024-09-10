@@ -1,0 +1,141 @@
+{
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "What year was Uncle Ho born?",
+        "choices": [
+          { "text": "May 19, 1911", "isCorrect": false },
+          { "text": "February 3, 1930", "isCorrect": false },
+          { "text": "September 2, 1945", "isCorrect": false },
+          { "text": "May 19, 1890", "isCorrect": true }
+        ]
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "What year did Uncle Ho pass away?",
+        "choices": [
+          { "text": "September 2, 1969", "isCorrect": true },
+          { "text": "February 3, 1930", "isCorrect": false },
+          { "text": "September 2, 1945", "isCorrect": false },
+          { "text": "May 19, 1890", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "When did Uncle Ho go to find a way to save the country?",
+        "choices": [
+          { "text": "June 5, 1969", "isCorrect": false },
+          { "text": "February 3, 1930", "isCorrect": false },
+          { "text": "September 2, 1945", "isCorrect": false },
+          { "text": "June 5, 1911", "isCorrect": true }
+        ]
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "What is the place where Uncle Ho went to find a way to save the country?",
+        "choices": [
+          { "text": "Nội Bài Airport", "isCorrect": false },
+          { "text": "Tân Thanh Border Gate", "isCorrect": false },
+          { "text": "Nhà Rồng Wharf", "isCorrect": true },
+          { "text": "Hải Phòng Port", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 5,
+        "type": "multiple-choice",
+        "question": "When did Uncle Ho read the Declaration of Independence?",
+        "choices": [
+          { "text": "June 5, 1969", "isCorrect": false },
+          { "text": "February 3, 1930", "isCorrect": false },
+          { "text": "September 2, 1945", "isCorrect": true },
+          { "text": "June 5, 1911", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 6,
+        "type": "multiple-choice",
+        "question": "Where did Uncle Ho read the Declaration of Independence?",
+        "choices": [
+          { "text": "Hà Nội Opera House", "isCorrect": false },
+          { "text": "Ba Đình Square", "isCorrect": true },
+          { "text": "Imperial Citadel of Thang Long", "isCorrect": false },
+          { "text": "National Convention Center", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 7,
+        "type": "multiple-choice",
+        "question": "What province is Uncle Ho's hometown in?",
+        "choices": [
+          { "text": "Nghệ An", "isCorrect": true },
+          { "text": "Thanh Hóa", "isCorrect": false },
+          { "text": "Hà Tĩnh", "isCorrect": false },
+          { "text": "Quảng Bình", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 8,
+        "type": "multiple-choice",
+        "question": "What was Uncle Ho's name when he was young?",
+        "choices": [
+          { "text": "Nguyễn Tất Thành", "isCorrect": true },
+          { "text": "Hồ Chí Minh", "isCorrect": false },
+          { "text": "Nguyễn Ái Quốc", "isCorrect": false },
+          { "text": "Nguyễn Sinh Cung", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 9,
+        "type": "multiple-choice",
+        "question": "What work does Uncle Ho do in this picture?",
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest1pic.jpg",
+        "choices": [
+          {
+            "text": "Wrote articles for the newspaper People in need",
+            "isCorrect": false
+          },
+          {
+            "text": "Working as a kitchen assistant on a ship when going to France",
+            "isCorrect": true
+          },
+          { "text": "Teaching at Duc Thanh school", "isCorrect": false },
+          { "text": "Go to Quoc Hoc Hue school", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 10,
+        "type": "matching",
+        "question": "Connect the years with the corresponding events in Uncle Ho's revolutionary journey.",
+        "options": [
+          { "id": "1890", "year": "1890" },
+          { "id": "1969", "year": "1969" },
+          { "id": "1911", "year": "1911" },
+          { "id": "1945", "year": "1945" }
+        ],
+        "matches": [
+          { "id": "m1", "event": "Uncle Ho's birth year", "correct": "1890" },
+          {
+            "id": "m2",
+            "event": "Uncle Ho went to find a way to save the country",
+            "correct": "1911"
+          },
+          {
+            "id": "m3",
+            "event": "The year of Uncle Ho's death",
+            "correct": "1969"
+          },
+          {
+            "id": "m4",
+            "event": "Uncle Ho read the Declaration of Independence",
+            "correct": "1945"
+          }
+        ]
+      }
+    ]
+  }
+}

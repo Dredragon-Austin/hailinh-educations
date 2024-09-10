@@ -1,0 +1,192 @@
+{
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "Give the name of the first member of the Hồ Chí Minh Communist Youth Union.",
+        "choices": [
+          {
+            "text": "Nguyễn Thái Bình",
+            "isCorrect": false
+          },
+          {
+            "text": "Trần Văn Ơn",
+            "isCorrect": false
+          },
+          {
+            "text": "Lý Tự Trọng",
+            "isCorrect": false
+          },
+          {
+            "text": "Kim Đồng",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "What is the name of the youngest General Secretary of the Communist Party of Vietnam?",
+        "choices": [
+          {
+            "text": "Nguyễn Văn Linh",
+            "isCorrect": false
+          },
+          {
+            "text": "Nguyễn Phú Trọng",
+            "isCorrect": false
+          },
+          {
+            "text": "Lê Khả Phiêu",
+            "isCorrect": false
+          },
+          {
+            "text": "Nguyễn Văn Cừ",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "The hero Cù Chính Lan is famous for which feat?",
+        "choices": [
+          {
+            "text": "Destroying armored vehicles",
+            "isCorrect": false
+          },
+          {
+            "text": "Destroying tanks",
+            "isCorrect": false
+          },
+          {
+            "text": "Destroying airplanes",
+            "isCorrect": false
+          },
+          {
+            "text": "Disrupting weapon depots",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "Who is the young H’mông who made the contact and sacrificed himself when he was not yet 15 years old ?",
+        "choices": [
+          {
+            "text": "Vừ A Dính",
+            "isCorrect": false
+          },
+          {
+            "text": "Cù Chính Lan",
+            "isCorrect": false
+          },
+          {
+            "text": "Lê Văn Thọ",
+            "isCorrect": false
+          },
+          {
+            "text": "Nông Văn Dền",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "type": "multiple-choice",
+        "question": "Kim Đồng is the first captain of the Hồ Chí Minh Pioneers’s Organization. What is Kim Đồng’s real name ?",
+        "choices": [
+          {
+            "text": "Nông Văn Thàn",
+            "isCorrect": false
+          },
+          {
+            "text": "Nông Việt Yên",
+            "isCorrect": false
+          },
+          {
+            "text": "Nông Văn Dèn",
+            "isCorrect": false
+          },
+          {
+            "text": "Vừ A Dính",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "type": "multiple-choice",
+        "question": "Võ Nguyên Giáp is one of the greatest military generals in the history of Vietnam and the world. Where is his hometown?",
+        "choices": [
+          {
+            "text": "Quảng Nam",
+            "isCorrect": false
+          },
+          {
+            "text": "Quãng Ngãi",
+            "isCorrect": false
+          },
+          {
+            "text": "Quảng Bình",
+            "isCorrect": false
+          },
+          {
+            "text": "Thừa Thiên Huế",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "type": "multiple-choice",
+        "question": "Who is the first female Minister of Foreign Affairs in Vietnam?",
+        "choices": [
+          {
+            "text": "Nguyễn Thị Minh Khai",
+            "isCorrect": false
+          },
+          {
+            "text": "Nguyễn Thị Bình",
+            "isCorrect": false
+          },
+          {
+            "text": "Nguyễn Thị Út",
+            "isCorrect": false
+          },
+          {
+            "text": "Trương Mỹ Hoa",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest19pic.jpg",
+
+        "type": "multiple-choice",
+        "question": "Through the memoir \"Family, Friends, and Country,\" Ms. Nguyễn Thị Bình wishes to express gratitude to comrades and fellow citizens who sacrificed blood and life to secure peace and independence for the nation. In particular, she wants to extend her thanks to international friends who made significant contributions to the country's victory.",
+        "choices": [
+          {
+            "text": "Nguyễn Thị Châu Sa",
+            "isCorrect": false
+          },
+          {
+            "text": "Nguyễn Thị Lan Anh",
+            "isCorrect": false
+          },
+          {
+            "text": "Nguyễn Thị Sương",
+            "isCorrect": false
+          },
+          {
+            "text": "Nguyễn Thị Minh",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+}

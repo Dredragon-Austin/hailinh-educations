@@ -1,0 +1,222 @@
+{
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "The Hồ Dynasty Citadel was recognized by UNESCO as a world cultural heritage site in 2011. The recognition has brought pride and a great joy to the Vietnamese people.",
+        "choices": [
+          {
+            "text": "Vĩnh Phúc",
+            "isCorrect": false
+          },
+          {
+            "text": "Hà Nội",
+            "isCorrect": false
+          },
+          {
+            "text": "Huế",
+            "isCorrect": false
+          },
+          {
+            "text": "Thanh Hoá",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "There is a bay of the Gulf of Tonkin which has been repeatedly recognized by UNESCO as a world natural heritage site. This place is notable for its thousands of magnificent islands and caves.",
+        "choices": [
+          {
+            "text": "Vân Long Bay",
+            "isCorrect": false
+          },
+          {
+            "text": "Lăng Cô Bay",
+            "isCorrect": false
+          },
+          {
+            "text": "Vĩnh Hy Bay",
+            "isCorrect": false
+          },
+          {
+            "text": "Hạ Long Bay",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest8pic.jpg",
+        "question": "The following image is the characteristics of a city that attract many tourists to the city every year. Which city is mentioned?",
+        "choices": [
+          {
+            "text": "Hà Nội",
+            "isCorrect": false
+          },
+          {
+            "text": "Hội An",
+            "isCorrect": false
+          },
+          {
+            "text": "Vinh",
+            "isCorrect": false
+          },
+          {
+            "text": "Đà Lạt",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "type": "matching",
+        "question": "Match the tourist attractions or landmarks with their corresponding provinces:",
+        "options": [
+          { "id": "1", "province": "Hà Giang" },
+          { "id": "2", "province": "Hà Nội" },
+          { "id": "3", "province": "Thanh Hoá" },
+          { "id": "4", "province": "Quảng Ninh" },
+          { "id": "5", "province": "Quảng Nam" },
+          { "id": "6", "province": "Ninh Bình" },
+          { "id": "7", "province": "Quảng Bình" }
+        ],
+        "matches": [
+          {
+            "id": "m1",
+            "location": "Hạ Long Bay",
+            "correct": "4"
+          },
+          {
+            "id": "m2",
+            "location": "Phong Nha – Kẻ Bàng national park",
+            "correct": "7"
+          },
+          {
+            "id": "m3",
+            "location": "Dong Van Karst Plateau Geopark",
+            "correct": "1"
+          },
+          {
+            "id": "m4",
+            "location": "Mỹ Sơn Sanctuary",
+            "correct": "5"
+          },
+          {
+            "id": "m5",
+            "location": "The Imperial Citadel of Thăng Long",
+            "correct": "2"
+          },
+          {
+            "id": "m6",
+            "location": "Citadel of Hồ Dynasty",
+            "correct": "3"
+          },
+          {
+            "id": "m7",
+            "location": "Tràng An Scenic Landscape Complex",
+            "correct": "6"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "type": "multiple-choice",
+        "question": "Langbiang mountain, Datanla waterfall, Tuyền Lâm lake, Robin hill are the landscapes which attract many tourists to a foggy city in Vietnam. What city is mentioned?",
+        "choices": [
+          {
+            "text": "Phan Thiết",
+            "isCorrect": false
+          },
+          {
+            "text": "Đà Lạt",
+            "isCorrect": false
+          },
+          {
+            "text": "Cần Giờ",
+            "isCorrect": false
+          },
+          {
+            "text": "Hồ Chí Minh",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "type": "multiple-choice",
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest8.1pic.jpg",
+        "question": "Complex of Huế Monuments is recognized as World Cultural Heritage by which organization?",
+        "choices": [
+          {
+            "text": "AFTA",
+            "isCorrect": false
+          },
+          {
+            "text": "UNESCO",
+            "isCorrect": false
+          },
+          {
+            "text": "ASEAN",
+            "isCorrect": false
+          },
+          {
+            "text": "IMF",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "type": "multiple-choice",
+        "imgSrc": "https://hailinh-education.netlify.app/assets/quest8.2pic.jpg",
+
+        "question": "The Trang An Landscape Complex possesses unique and impressive natural scenery. When you come here, you will surely be overwhelmed when standing in front of the stunning natural landscape.",
+        "choices": [
+          {
+            "text": "Hà Nội",
+            "isCorrect": false
+          },
+          {
+            "text": "Nam Định",
+            "isCorrect": false
+          },
+          {
+            "text": "Hà Giang",
+            "isCorrect": false
+          },
+          {
+            "text": "Ninh Bình",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "type": "multiple-choice",
+        "question": "General Võ Nguyên Giáp is one of the greatest military commanders in the history of both Vietnam and the world. His hometown is the province of Quảng Bình, renowned for a UNESCO natural heritage site. What is the world natural heritage site being referred to?",
+        "choices": [
+          {
+            "text": "My Son Sanctuary",
+            "isCorrect": false
+          },
+          {
+            "text": "Citadel of Hồ Dynasty",
+            "isCorrect": false
+          },
+          {
+            "text": "Phong Nha – Kẻ Bàng National Park",
+            "isCorrect": false
+          },
+          {
+            "text": "The Imperial Citadel of Thăng Long",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+}
