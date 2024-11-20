@@ -16,7 +16,7 @@
           },
           {
             "text": "Hot, humid, rainy",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Hot all year round",
@@ -36,7 +36,7 @@
           },
           {
             "text": "High mountain area",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Land area",
@@ -63,7 +63,7 @@
           },
           {
             "text": "11",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "12",
@@ -135,7 +135,7 @@
         "choices": [
           {
             "text": "Tonle Sap",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Victoria",
@@ -168,7 +168,7 @@
           },
           {
             "text": "Indonesia",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Vietnam",
@@ -185,7 +185,7 @@
         "choices": [
           {
             "text": "ASEAN",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "AFTA",
