@@ -19,7 +19,6 @@
           { "id": "4", "correct": "c" }
         ]
       },
-
       {
         "id": 2,
         "type": "multiple-choice",
@@ -31,7 +30,7 @@
           },
           {
             "text": "Norodom Palace",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Parliament Building",
@@ -53,11 +52,11 @@
             "isCorrect": false
           },
           {
-            "text": "Sô Viết Nghệ Tĩnh movement",
-            "isCorrect": false
+            "text": "Unification of the country",
+            "isCorrect": true
           },
           {
-            "text": "Unification of the country",
+            "text": "Sô Viết Nghệ Tĩnh movement",
             "isCorrect": false
           },
           {
@@ -77,7 +76,7 @@
           },
           {
             "text": "Hồ Chí Minh City Post Office",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Vietnam History Museum",
@@ -100,7 +99,7 @@
           },
           {
             "text": "Uncle Ho went to find a way to save the country",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Offensive and uprising in the spring of Mậu Thân",
@@ -123,7 +122,7 @@
           },
           {
             "text": "City in the ground",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Secret War Zone",
@@ -138,7 +137,6 @@
       {
         "id": 7,
         "imgSrc": "https://hailinh-education.netlify.app/assets/quest10.1pic.jpg",
-
         "type": "multiple-choice",
         "question": "The temple of Literature is not only the first university in our country but also like a candle always burning, illuminating the scholarly tradition of the Vietnamese people. In which city/province of our country is this famous place located?",
         "choices": [
@@ -148,7 +146,7 @@
           },
           {
             "text": "Hà Nội",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Nam Định",
@@ -163,7 +161,6 @@
       {
         "id": 8,
         "imgSrc": "https://hailinh-education.netlify.app/assets/quest10.2pic.jpg",
-
         "type": "multiple-choice",
         "question": "The Ho Chi Minh City Post Office is among the top 11 most beautiful post offices in the world, thanks to preserving the distinctive Western architectural style for over 130 years. What national architectural characteristics does this construction express?",
         "choices": [
@@ -181,7 +178,7 @@
           },
           {
             "text": "France",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       }
