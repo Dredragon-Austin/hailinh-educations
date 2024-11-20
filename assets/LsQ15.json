@@ -20,13 +20,12 @@
           },
           {
             "text": "A city that utilizes modern technology and artificial intelligence to manage itself intelligently",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
       {
         "id": 2,
-        "imgSrc": "https://hailinh-education.netlify.app/assets/quest15pic.jpg",
         "type": "multiple-choice",
         "question": "What is the following application used for?",
         "choices": [
@@ -36,7 +35,7 @@
           },
           {
             "text": "Monitoring the amount of water each household uses monthly",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Used for online sales",
@@ -50,13 +49,12 @@
       },
       {
         "id": 3,
-        "imgSrc": "https://hailinh-education.netlify.app/assets/quest15.1pic.jpg",
         "type": "multiple-choice",
         "question": "What is the following application used for?",
         "choices": [
           {
             "text": "Drivers use this app to find directions when transporting passengers",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Online sellers use this app to find customers.",
@@ -79,7 +77,7 @@
         "choices": [
           {
             "text": "Artificial intelligence and the Internet of Things (IoT)",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Artificial meat processing technology",
@@ -106,7 +104,7 @@
           },
           {
             "text": "Enable students to learn remotely without needing to go to school",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Prevent students from feeling bored during learning",
@@ -120,13 +118,12 @@
       },
       {
         "id": 6,
-        "imgSrc": "https://hailinh-education.netlify.app/assets/quest15.2pic.jpg",
         "type": "multiple-choice",
         "question": "What is this application used for?",
         "choices": [
           {
             "text": "Teachers use it for remote teaching and companies for online meetings",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Companies use it to manage employees",
@@ -144,13 +141,12 @@
       },
       {
         "id": 7,
-        "imgSrc": "https://hailinh-education.netlify.app/assets/quest15.3pic.jpg",
         "type": "multiple-choice",
         "question": "What is this application used for?",
         "choices": [
           {
             "text": "Placing online orders.",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Ordering food online.",
@@ -168,7 +164,6 @@
       },
       {
         "id": 8,
-        "imgSrc": "https://hailinh-education.netlify.app/assets/quest15.4pic.jpg",
         "type": "multiple-choice",
         "question": "What is this application used for?",
         "choices": [
@@ -186,7 +181,7 @@
           },
           {
             "text": "Restaurants that look for employees",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -201,7 +196,7 @@
           },
           {
             "text": "It is the only tunnel in Vietnam that runs under a river (Saigon River)",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "It is the tunnel with the most lanes in Vietnam",
@@ -220,7 +215,7 @@
         "choices": [
           {
             "text": "1490 m",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "1500 m",
