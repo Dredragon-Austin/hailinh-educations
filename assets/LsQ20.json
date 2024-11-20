@@ -20,7 +20,7 @@
           },
           {
             "text": "15 million square kilometers",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -43,7 +43,7 @@
           },
           {
             "text": "- 100℃",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -58,7 +58,7 @@
           },
           {
             "text": "Seals",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "White bear",
@@ -81,7 +81,7 @@
           },
           {
             "text": "Early 20th century",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Late 20th century",
@@ -113,7 +113,7 @@
           },
           {
             "text": "Penguin",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -128,7 +128,7 @@
           },
           {
             "text": "Arctic Ocean",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Atlantic Ocean",
@@ -159,7 +159,7 @@
           },
           {
             "text": "Roald Amundsen (USA)",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -172,7 +172,7 @@
         "choices": [
           {
             "text": "Roald Amundsen",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "David",
@@ -207,7 +207,7 @@
           },
           {
             "text": "Within the South Pole",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -222,7 +222,7 @@
           },
           {
             "text": "Fourth",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Fifth",
@@ -251,7 +251,7 @@
           },
           {
             "text": "Hoàng Thị Minh Hồng",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Hoàng Thị Lý",
@@ -278,7 +278,7 @@
           },
           {
             "text": "Nguyễn Trọng Hiền",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       }
