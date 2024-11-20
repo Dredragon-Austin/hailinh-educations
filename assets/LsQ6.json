@@ -12,7 +12,7 @@
           },
           {
             "text": "a saltwater lake",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "a sea bay",
@@ -35,7 +35,7 @@
           },
           {
             "text": "West Bank, Israel, Jordan",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "China, Nepal, India",
@@ -62,7 +62,7 @@
           },
           {
             "text": "Only some microorganisms",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Only amphibians",
@@ -77,7 +77,7 @@
         "choices": [
           {
             "text": "Floating on the water even though I can't swim",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Running on water",
@@ -108,7 +108,7 @@
           },
           {
             "text": "The ability to heal",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Long history",
@@ -127,7 +127,7 @@
           },
           {
             "text": "Psoriasis, pimples",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Dermatitis",
@@ -148,7 +148,7 @@
         "choices": [
           {
             "text": "Ability to cure certain skin conditions",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Cool climate",
@@ -175,7 +175,7 @@
           },
           {
             "text": "Jordan and Israel",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Egypt and Saudi Arabia",
