@@ -20,7 +20,7 @@
           },
           {
             "text": "Thanh Hoá",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -43,7 +43,7 @@
           },
           {
             "text": "Hạ Long Bay",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -59,7 +59,7 @@
           },
           {
             "text": "Hội An",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Vinh",
@@ -133,7 +133,7 @@
           },
           {
             "text": "Đà Lạt",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Cần Giờ",
@@ -157,7 +157,7 @@
           },
           {
             "text": "UNESCO",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "ASEAN",
@@ -173,7 +173,6 @@
         "id": 7,
         "type": "multiple-choice",
         "imgSrc": "https://hailinh-education.netlify.app/assets/quest8.2pic.jpg",
-
         "question": "The Trang An Landscape Complex possesses unique and impressive natural scenery. When you come here, you will surely be overwhelmed when standing in front of the stunning natural landscape.",
         "choices": [
           {
@@ -190,7 +189,7 @@
           },
           {
             "text": "Ninh Bình",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -209,7 +208,7 @@
           },
           {
             "text": "Phong Nha – Kẻ Bàng National Park",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "The Imperial Citadel of Thăng Long",
