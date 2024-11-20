@@ -20,7 +20,7 @@
           },
           {
             "text": "Bà Rịa - Vũng Tàu",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -43,7 +43,7 @@
           },
           {
             "text": "Long Sơn, Gò Găng",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -62,7 +62,7 @@
           },
           {
             "text": "141.1 square kilometer",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "111.1 square kilometer",
@@ -81,7 +81,7 @@
           },
           {
             "text": "42 kilometers",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "45 kilometers",
@@ -112,7 +112,7 @@
           },
           {
             "text": "Lớn Mountain, Nhỏ Mountain",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -124,7 +124,7 @@
         "choices": [
           {
             "text": "More than 10 kilometers",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "42 kilometers",
@@ -153,7 +153,7 @@
           },
           {
             "text": "Tầm Dương",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Vọng Nguyệt",
@@ -182,7 +182,7 @@
           },
           {
             "text": "Nhỏ Mountain",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Bà Đen Mountain",
@@ -207,7 +207,7 @@
           },
           {
             "text": "Hạ Long",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Cửu Long",
@@ -228,7 +228,7 @@
           },
           {
             "text": "19th century",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "17th century",
@@ -247,7 +247,7 @@
         "choices": [
           {
             "text": "Thùy Vân",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Tầm Dương",
@@ -270,7 +270,7 @@
         "choices": [
           {
             "text": "Tao Phùng mountain",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Lớn Mountain",
