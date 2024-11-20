@@ -8,7 +8,7 @@
         "choices": [
           {
             "text": "Ngô Quyền",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Hai Bà Trưng",
@@ -43,7 +43,7 @@
           },
           {
             "text": "The Nam Hán aggressors",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -54,7 +54,7 @@
         "choices": [
           {
             "text": "938",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "939",
@@ -72,8 +72,6 @@
       },
       {
         "id": 4,
-        "imgSrc": "https://hailinh-education.netlify.app/assets/quest12.1pic.jpg",
-
         "type": "multiple-choice",
         "question": "After ascending to the throne, where did Ngo Quyen establish his capital?",
         "choices": [
@@ -91,7 +89,7 @@
           },
           {
             "text": "Cổ Loa",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -110,7 +108,7 @@
           },
           {
             "text": "Lưu Hoằng Tháo",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Lưu Bang",
@@ -125,7 +123,7 @@
         "choices": [
           {
             "text": "Dương Đình Nghệ",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Dương Vân Nga",
@@ -143,8 +141,6 @@
       },
       {
         "id": 7,
-        "imgSrc": "https://hailinh-education.netlify.app/assets/quest12.1pic.jpg",
-
         "type": "multiple-choice",
         "question": "What provinces in our country are the source and the estuary of the Bach Dang River located in?",
         "choices": [
@@ -158,7 +154,7 @@
           },
           {
             "text": "Quảng Ninh – Hải Phòng",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Nam Định – Quảng Ninh",
@@ -181,7 +177,7 @@
           },
           {
             "text": "Kiều Công Tiễn",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Lưu Cung",
@@ -192,39 +188,40 @@
       {
         "id": 9,
         "type": "matching",
-        "question": "Match the historical facts or descriptions with the correct person or place:",
-        "options": [
-          { "id": "1", "answer": "Kiều Công Tiễn" },
-          { "id": "2", "answer": "Lưu Hoằng Thao" },
-          { "id": "3", "answer": "Cỏ Loa" },
-          { "id": "4", "answer": "Quảng Ninh – Hải Phòng" },
-          { "id": "5", "answer": "Ngô Quyền" }
+        "leftColumn": [
+          "The position of Bach Dang river",
+          "The person who assassinated Duong Dinh Nghe",
+          "The son-in-law of Duong Dinh Nghe",
+          "The leader of the Southern Han army that invaded our country",
+          "The place where Ngo Quyen establish his capital"
         ],
-        "matches": [
+        "rightColumn": [
+          "Kieu Cong Tien",
+          "Luu Hoang Thao",
+          "Co Loa",
+          "Quang Ninh - Hai Phong",
+          "Ngo Quyen"
+        ],
+        "correctMatches": [
           {
-            "id": "m1",
-            "description": "The position of Bạch Đằng river",
-            "correct": "4"
+            "left": "The position of Bach Dang river",
+            "right": "Quang Ninh - Hai Phong"
           },
           {
-            "id": "m2",
-            "description": "The person who assassinated Dương Đình Nghệ",
-            "correct": "1"
+            "left": "The person who assassinated Duong Dinh Nghe",
+            "right": "Kieu Cong Tien"
           },
           {
-            "id": "m3",
-            "description": "The son-in-law of Dương Đình Nghệ",
-            "correct": "5"
+            "left": "The son-in-law of Duong Dinh Nghe",
+            "right": "Ngo Quyen"
           },
           {
-            "id": "m4",
-            "description": "The leader of the Southern Han army that invaded our country.",
-            "correct": "2"
+            "left": "The leader of the Southern Han army that invaded our country",
+            "right": "Luu Hoang Thao"
           },
           {
-            "id": "m5",
-            "description": "The place where Ngô Quyền establish his capital",
-            "correct": "3"
+            "left": "The place where Ngo Quyen establish his capital",
+            "right": "Co Loa"
           }
         ]
       }
