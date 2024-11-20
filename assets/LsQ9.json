@@ -5,7 +5,6 @@
         "id": 1,
         "type": "multiple-choice",
         "imgSrc": "https://hailinh-education.netlify.app/assets/quest9pic.jpg",
-
         "question": "The path of youth is only a revolutionary path, there can be no other way. Who said the sentence?",
         "choices": [
           {
@@ -14,7 +13,7 @@
           },
           {
             "text": "Lý Tự Trọng",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Trần Đại Nghĩa",
@@ -30,12 +29,11 @@
         "id": 2,
         "type": "multiple-choice",
         "imgSrc": "https://hailinh-education.netlify.app/assets/quest9.1pic.jpg",
-
         "question": "Who used his body to insert artillery during the Điện Biên Phủ campaign?",
         "choices": [
           {
             "text": "Tô Vĩnh Diện",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Cù Chính Lan",
@@ -54,12 +52,11 @@
       {
         "id": 3,
         "type": "multiple-choice",
-
         "question": "Who used his body to close the loophole during the Điện Biên Phủ campaign?",
         "choices": [
           {
             "text": "Phan Đình Giót",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Tô Vĩnh Diện",
@@ -79,12 +76,11 @@
         "id": 4,
         "type": "multiple-choice",
         "imgSrc": "https://hailinh-education.netlify.app/assets/quest9.2pic.jpg",
-
         "question": "Who used his body as a gun stand, contributing to the Điện Biên Phủ victory?",
         "choices": [
           {
             "text": "Bế Văn Đàn",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Phan Đình Giót",
@@ -111,7 +107,7 @@
           },
           {
             "text": "Võ Thị Sáu",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Nguyễn Thị Minh Khai",
@@ -130,7 +126,7 @@
         "choices": [
           {
             "text": "Lý Tự Trọng",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Tô Vĩnh Diện",
@@ -157,7 +153,7 @@
           },
           {
             "text": "La Văn Cầu",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Phan Đình Giót",
@@ -170,7 +166,7 @@
         ]
       },
       {
-        "id": 9,
+        "id": 8,
         "type": "multiple-choice",
         "question": "Who was the student leading the group of students from Pétrus Ký School in the January 1950 protest, sacrificing his life while protecting and sheltering the younger students behind?",
         "choices": [
@@ -180,7 +176,7 @@
           },
           {
             "text": "Trần Văn Ơn",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Lý Tự Trọng",
