@@ -8,7 +8,7 @@
         "choices": [
           {
             "text": "Lê Đại Hành",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Trần Nhân Tông",
@@ -26,14 +26,12 @@
       },
       {
         "id": 2,
-        "imgSrc": "https://hailinh-education.netlify.app/assets/quest14pic.jpg",
-
         "type": "multiple-choice",
         "question": "The victory at Bạch Đằng in 981 drove which invading army out of our country?",
         "choices": [
           {
             "text": "Tống",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Ngô",
@@ -56,7 +54,7 @@
         "choices": [
           {
             "text": "Hầu Nhân Bảo",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Lưu Cung",
@@ -79,7 +77,7 @@
         "choices": [
           {
             "text": "Thiên Phúc",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Thiên Đức",
@@ -114,7 +112,7 @@
           },
           {
             "text": "Lê Hoàn",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -129,7 +127,7 @@
           },
           {
             "text": "979",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "879",
@@ -148,7 +146,7 @@
         "choices": [
           {
             "text": "Hoa Lư",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Thăng Long",
@@ -179,7 +177,7 @@
           },
           {
             "text": "Đại Cồ Việt",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Đại Ngu",
@@ -189,14 +187,12 @@
       },
       {
         "id": 9,
-        "imgSrc": "https://hailinh-education.netlify.app/assets/quest14.1pic.jpg",
-
         "type": "multiple-choice",
         "question": "When did the second battle on the Bạch Đằng River take place?",
         "choices": [
           {
             "text": "28 April, 981",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "26 July, 981",
@@ -216,26 +212,28 @@
         "id": 10,
         "type": "matching",
         "question": "Match the Battle of Bạch Đằng with the corresponding invaders:",
-        "options": [
-          { "id": "1", "invaders": "Mongol invaders" },
-          { "id": "2", "invaders": "Southern Han invaders" },
-          { "id": "3", "invaders": "Song invaders" }
+        "battles": [
+          "Battle of Bạch Đằng 938",
+          "Battle of Bạch Đằng 981",
+          "Battle of Bạch Đằng 1288"
         ],
-        "matches": [
+        "invaders": [
+          "Mongol invaders",
+          "Southern Han invaders",
+          "Song invaders"
+        ],
+        "correctMatches": [
           {
-            "id": "m1",
             "battle": "Battle of Bạch Đằng 938",
-            "correct": "2"
+            "invader": "Southern Han invaders"
           },
           {
-            "id": "m2",
             "battle": "Battle of Bạch Đằng 981",
-            "correct": "3"
+            "invader": "Song invaders"
           },
           {
-            "id": "m3",
             "battle": "Battle of Bạch Đằng 1288",
-            "correct": "1"
+            "invader": "Mongol invaders"
           }
         ]
       }
