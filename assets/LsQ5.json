@@ -16,7 +16,7 @@
           },
           {
             "text": "Laos, Cambodia",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Laos",
@@ -43,7 +43,7 @@
           },
           {
             "text": "1650 km",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -58,7 +58,7 @@
           },
           {
             "text": "330000 km2",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "237000 km2",
@@ -81,7 +81,7 @@
           },
           {
             "text": "China, Laos, Cambodia",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "China, Laos",
@@ -104,7 +104,7 @@
           },
           {
             "text": "Paracel Islands, Spratly Islands",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Spratly Islands",
@@ -135,7 +135,7 @@
           },
           {
             "text": "Vietnam, Laos, Cambodia",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -154,7 +154,7 @@
           },
           {
             "text": "Indochina Peninsula",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Iberian Peninsula",
@@ -181,7 +181,7 @@
           },
           {
             "text": "Southeast Asia",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       }
