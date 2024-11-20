@@ -16,7 +16,7 @@
           },
           {
             "text": "Lý Tự Trọng",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Kim Đồng",
@@ -43,7 +43,7 @@
           },
           {
             "text": "Nguyễn Văn Cừ",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -58,7 +58,7 @@
           },
           {
             "text": "Destroying tanks",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Destroying airplanes",
@@ -77,7 +77,7 @@
         "choices": [
           {
             "text": "Vừ A Dính",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Cù Chính Lan",
@@ -108,7 +108,7 @@
           },
           {
             "text": "Nông Văn Dèn",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Vừ A Dính",
@@ -131,7 +131,7 @@
           },
           {
             "text": "Quảng Bình",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Thừa Thiên Huế",
@@ -150,7 +150,7 @@
           },
           {
             "text": "Nguyễn Thị Bình",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Nguyễn Thị Út",
@@ -171,7 +171,7 @@
         "choices": [
           {
             "text": "Nguyễn Thị Châu Sa",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Nguyễn Thị Lan Anh",
