@@ -17,7 +17,7 @@
           },
           {
             "text": "Saigon Notre-Dame Basilica",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "City People's Committee",
@@ -40,7 +40,7 @@
           },
           {
             "text": "Vietnam History Museum",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Bến Thành Market",
@@ -56,7 +56,7 @@
         "choices": [
           {
             "text": "Cu Chi Tunnels",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "War Remnants Museum",
@@ -85,7 +85,7 @@
           },
           {
             "text": "Uncle Ho went to find a way to save the country",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Uncle Ho read the Declaration of Independence",
@@ -110,7 +110,7 @@
           },
           {
             "text": "Our Lady of Peace",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "King Louis II",
@@ -129,7 +129,7 @@
         "choices": [
           {
             "text": "City Post Office",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Independence Palace",
@@ -166,7 +166,7 @@
           },
           {
             "text": "Independence Palace",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -186,7 +186,7 @@
           },
           {
             "text": "City Opera House",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Independence Palace",
