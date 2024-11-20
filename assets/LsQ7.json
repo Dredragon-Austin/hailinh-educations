@@ -20,7 +20,7 @@
           },
           {
             "text": "Norodom Palace",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -35,7 +35,7 @@
           },
           {
             "text": "Pierre-Paul de La Grandière",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Maurice Cognacq",
@@ -66,7 +66,7 @@
           },
           {
             "text": "Throwing a coup bomb",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -74,7 +74,6 @@
         "id": 4,
         "type": "multiple-choice",
         "imgSrc": "https://hailinh-education.netlify.app/assets/quest7pic.jpg",
-
         "question": "Who designed the architecture of the Independence Palace?",
         "choices": [
           {
@@ -83,7 +82,7 @@
           },
           {
             "text": "Ngô Viết Thụ",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Hoàng Như Tiếp",
@@ -102,7 +101,7 @@
         "choices": [
           {
             "text": "July 1, 1962",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "February 23, 1868",
@@ -122,7 +121,6 @@
         "id": 6,
         "type": "multiple-choice",
         "imgSrc": "https://hailinh-education.netlify.app/assets/quest7.1pic.jpg",
-
         "question": "Who ordered the construction of the Independence Palace?",
         "choices": [
           {
@@ -135,7 +133,7 @@
           },
           {
             "text": "Ngô Đình Diệm",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Nguyễn Văn Thiệu",
@@ -154,7 +152,7 @@
           },
           {
             "text": "390",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "290",
@@ -170,7 +168,6 @@
         "id": 8,
         "type": "multiple-choice",
         "imgSrc": "https://hailinh-education.netlify.app/assets/quest7.2pic.jpg",
-
         "question": "Who hung the flag of the National Liberation Front on the roof of the Independence Palace?",
         "choices": [
           {
@@ -187,7 +184,7 @@
           },
           {
             "text": "Bùi Quang Thận",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -206,7 +203,7 @@
           },
           {
             "text": "Oval",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Square",
@@ -229,7 +226,7 @@
           },
           {
             "text": "95",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "75",
@@ -241,7 +238,6 @@
         "id": 11,
         "type": "multiple-choice",
         "imgSrc": "https://hailinh-education.netlify.app/assets/quest7.3pic.jpg",
-
         "question": "Among the following images, which one is of the Independence Palace?",
         "choices": [
           {
@@ -250,7 +246,7 @@
           },
           {
             "text": "2",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "3",
