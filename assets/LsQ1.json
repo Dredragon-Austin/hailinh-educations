@@ -83,10 +83,10 @@
         "type": "multiple-choice",
         "question": "What was Uncle Ho's name when he was young?",
         "choices": [
-          { "text": "Nguyễn Tất Thành", "isCorrect": true },
+          { "text": "Nguyễn Tất Thành", "isCorrect": false },
           { "text": "Hồ Chí Minh", "isCorrect": false },
           { "text": "Nguyễn Ái Quốc", "isCorrect": false },
-          { "text": "Nguyễn Sinh Cung", "isCorrect": false }
+          { "text": "Nguyễn Sinh Cung", "isCorrect": true }
         ]
       },
       {
