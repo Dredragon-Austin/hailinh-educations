@@ -18,7 +18,7 @@
           },
           {
             "text": "70 percent",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "40 percent",
@@ -33,7 +33,7 @@
         "choices": [
           {
             "text": "Pacific, Atlantic, Indian, Artic, Antarctic",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Pacific, Indian, Atlantic, Artic, Antarctic",
@@ -60,7 +60,7 @@
           },
           {
             "text": "Pacific Ocean",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Atlantic Ocean",
@@ -79,7 +79,7 @@
         "choices": [
           {
             "text": "The Atlantic",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "The Pacific",
@@ -106,7 +106,7 @@
           },
           {
             "text": "Pacific Ocean",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Indian Ocean",
@@ -125,7 +125,7 @@
         "choices": [
           {
             "text": "Atlantic Ocean",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Pacific Ocean",
@@ -152,7 +152,7 @@
           },
           {
             "text": "Pacific Ocean",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Indian Ocean",
@@ -183,7 +183,7 @@
           },
           {
             "text": "Southern Ocean",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -196,7 +196,7 @@
         "choices": [
           {
             "text": "90 %",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "50 %",
@@ -219,7 +219,7 @@
         "choices": [
           {
             "text": "on the ice of the Arctic Ocean",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "at the surface of the Atlantic Ocean",
@@ -254,7 +254,7 @@
           },
           {
             "text": "Southern Ocean",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -269,7 +269,7 @@
           },
           {
             "text": "5\tD. 6",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       }
