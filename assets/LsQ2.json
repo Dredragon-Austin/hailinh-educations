@@ -20,7 +20,7 @@
           },
           {
             "text": "Southeast",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -35,7 +35,7 @@
           },
           {
             "text": "2 095,39 square kilometers",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "3 095,39 square kilometers",
@@ -66,7 +66,7 @@
           },
           {
             "text": "9,04 million people",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -85,7 +85,7 @@
           },
           {
             "text": "4 314 people/ square kilometers",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "5 314 people/ square kilometers",
@@ -104,7 +104,7 @@
           },
           {
             "text": "District 4",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "District 10",
@@ -135,7 +135,7 @@
           },
           {
             "text": "Cần Giờ",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -158,7 +158,7 @@
           },
           {
             "text": "Đồng Tháp",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -177,7 +177,7 @@
           },
           {
             "text": "16",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "21",
@@ -192,7 +192,7 @@
         "choices": [
           {
             "text": "5",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "10",
@@ -223,7 +223,7 @@
           },
           {
             "text": "Tân Sơn Nhất",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -243,7 +243,7 @@
           },
           {
             "text": "Tân Sơn Nhất",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
