@@ -4,11 +4,11 @@
       {
         "id": 1,
         "type": "multiple-choice",
-        "question": "Under which King’s dynasty was the One Pillar Pagoda built?",
+        "question": "Under which King's dynasty was the One Pillar Pagoda built?",
         "choices": [
           {
             "text": "Lý Thái Tông",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Lê Thánh Tông",
@@ -26,8 +26,6 @@
       },
       {
         "id": 2,
-        "imgSrc": "https://hailinh-education.netlify.app/assets/quest13pic.jpg",
-
         "type": "multiple-choice",
         "question": "The One Pillar Pagoda's architecture was built based on the shape of which flower?",
         "choices": [
@@ -41,7 +39,7 @@
           },
           {
             "text": "Lotus",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Apricot blossom",
@@ -60,7 +58,7 @@
           },
           {
             "text": "1049",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "1954",
@@ -91,7 +89,7 @@
           },
           {
             "text": "Diên Hựu Pagoda",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -110,7 +108,7 @@
           },
           {
             "text": "1955",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "1922",
@@ -133,7 +131,7 @@
           },
           {
             "text": "Thiền Tuệ",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Thiền Minh",
@@ -156,7 +154,7 @@
           },
           {
             "text": "1954",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "1922",
@@ -179,7 +177,7 @@
           },
           {
             "text": "Hà Nội",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Khánh Hòa",
@@ -194,7 +192,7 @@
         "choices": [
           {
             "text": "Concrete",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Stone",
@@ -213,45 +211,46 @@
       {
         "id": 10,
         "type": "matching",
-        "question": "Match the events in the history of a pagoda with their corresponding dates or periods:",
-        "options": [
-          { "id": "1", "date": "1955" },
-          { "id": "2", "date": "1840-1850, 1922" },
-          { "id": "3", "date": "1049" },
-          { "id": "4", "date": "1249" },
-          { "id": "5", "date": "under Lê Trung Hưng" },
-          { "id": "6", "date": "1954" }
+        "leftColumn": [
+          "The first time of construction",
+          "The Trần dynasty rebuilt",
+          "The pagoda degraded",
+          "The Nguyễn dynasty renewed",
+          "Destroyed by French soldiers",
+          "The state of our country rebuilt the pagoda"
         ],
-        "matches": [
+        "rightColumn": [
+          "1955",
+          "1840-1850, 1922",
+          "1049",
+          "1249",
+          "under Lê Trung Hưng",
+          "1954"
+        ],
+        "correctMatches": [
           {
-            "id": "m1",
-            "event": "The first time of construction",
-            "correct": "3"
+            "left": "The first time of construction",
+            "right": "1049"
           },
           {
-            "id": "m2",
-            "event": "The Trần dynasty rebuilt",
-            "correct": "4"
+            "left": "The Trần dynasty rebuilt",
+            "right": "1840-1850, 1922"
           },
           {
-            "id": "m3",
-            "event": "The pagoda degraded",
-            "correct": "5"
+            "left": "The pagoda degraded",
+            "right": "under Lê Trung Hưng"
           },
           {
-            "id": "m4",
-            "event": "The Nguyễn dynasty renewed",
-            "correct": "2"
+            "left": "The Nguyễn dynasty renewed",
+            "right": "1249"
           },
           {
-            "id": "m5",
-            "event": "Destroyed by French soldiers",
-            "correct": "6"
+            "left": "Destroyed by French soldiers",
+            "right": "1954"
           },
           {
-            "id": "m6",
-            "event": "The state of our country rebuilt the pagoda",
-            "correct": "1"
+            "left": "The state of our country rebuilt the pagoda",
+            "right": "1955"
           }
         ]
       }
