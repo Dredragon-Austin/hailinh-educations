@@ -8,7 +8,7 @@
         "choices": [
           {
             "text": "Lý Thường Kiệt",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Lý Công Uẩn",
@@ -39,7 +39,7 @@
           },
           {
             "text": "Trần Quốc Toản",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Trần Quang Diệu",
@@ -58,7 +58,7 @@
           },
           {
             "text": "Trần Bình Trọng",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Trần Quốc Toản",
@@ -77,7 +77,7 @@
         "choices": [
           {
             "text": "Nam Quốc Sơn Hà",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Bình Ngô Đại Cáo",
@@ -112,7 +112,7 @@
           },
           {
             "text": "Trần Hưng Đạo",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -125,7 +125,7 @@
         "choices": [
           {
             "text": "Triệu Thị Trinh",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Hai Bà Trưng",
