@@ -17,7 +17,7 @@
           },
           {
             "text": "Nguyễn Văn Thiệu",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Dương Văn Minh",
@@ -44,7 +44,7 @@
           },
           {
             "text": "3",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -63,7 +63,7 @@
           },
           {
             "text": "Tây Nguyên campaign",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Hồ Chí Minh campaign",
@@ -78,7 +78,7 @@
         "choices": [
           {
             "text": "5",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "4",
@@ -110,7 +110,7 @@
           },
           {
             "text": "Văn Tiến Dũng",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Trần Văn Trà",
@@ -134,7 +134,7 @@
           },
           {
             "text": "2",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "4",
@@ -161,7 +161,7 @@
           },
           {
             "text": "55",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -184,7 +184,7 @@
           },
           {
             "text": "Dương Văn Minh",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -199,7 +199,7 @@
           },
           {
             "text": "11:30 am on April 30, 1975",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "10:30 am on April 30, 1975",
@@ -218,7 +218,7 @@
         "choices": [
           {
             "text": "390",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "843",
@@ -249,7 +249,7 @@
           },
           {
             "text": "Bùi Quang Thận",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Vũ Lăng",
@@ -268,7 +268,7 @@
           },
           {
             "text": "Trần Văn Hương",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Nguyễn Văn Thiệu",
