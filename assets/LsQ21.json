@@ -12,7 +12,7 @@
           },
           {
             "text": "Henri Navarre",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Jules Gaucher",
@@ -39,7 +39,7 @@
           },
           {
             "text": "9",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "10",
@@ -62,7 +62,7 @@
           },
           {
             "text": "39 days",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "41 days",
@@ -81,7 +81,7 @@
           },
           {
             "text": "3",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "4",
@@ -113,7 +113,7 @@
           },
           {
             "text": "352  kg",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -128,7 +128,7 @@
           },
           {
             "text": "Christian de Castries",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Pierre Langlais",
@@ -148,7 +148,7 @@
         "choices": [
           {
             "text": "Tạ Quốc Luật",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Hoàng Đăng Vinh",
@@ -179,7 +179,7 @@
           },
           {
             "text": "D1",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Độc Lập",
@@ -206,7 +206,7 @@
           },
           {
             "text": "Nậm Rốm",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -217,7 +217,7 @@
         "choices": [
           {
             "text": "Soviet Union, China",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Soviet Union, Laos",
