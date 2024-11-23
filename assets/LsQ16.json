@@ -114,7 +114,7 @@
           },
           {
             "text": "Philippines",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Laos",
@@ -212,7 +212,7 @@
           },
           {
             "text": "Jakarta – Indonesia",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Singapore",
