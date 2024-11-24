@@ -207,35 +207,6 @@
             "isCorrect": false
           }
         ]
-      },
-      {
-        "id": 10,
-        "type": "matching",
-        "question": "Match the Battle of Bạch Đằng with the corresponding invaders:",
-        "battles": [
-          "Battle of Bạch Đằng 938",
-          "Battle of Bạch Đằng 981",
-          "Battle of Bạch Đằng 1288"
-        ],
-        "invaders": [
-          "Mongol invaders",
-          "Southern Han invaders",
-          "Song invaders"
-        ],
-        "correctMatches": [
-          {
-            "battle": "Battle of Bạch Đằng 938",
-            "invader": "Southern Han invaders"
-          },
-          {
-            "battle": "Battle of Bạch Đằng 981",
-            "invader": "Song invaders"
-          },
-          {
-            "battle": "Battle of Bạch Đằng 1288",
-            "invader": "Mongol invaders"
-          }
-        ]
       }
     ]
   }
