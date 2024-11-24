@@ -106,35 +106,6 @@
           { "text": "Teaching at Duc Thanh school", "isCorrect": false },
           { "text": "Go to Quoc Hoc Hue school", "isCorrect": false }
         ]
-      },
-      {
-        "id": 10,
-        "type": "matching",
-        "question": "Connect the years with the corresponding events in Uncle Ho's revolutionary journey.",
-        "options": [
-          { "id": "1890", "year": "1890" },
-          { "id": "1969", "year": "1969" },
-          { "id": "1911", "year": "1911" },
-          { "id": "1945", "year": "1945" }
-        ],
-        "matches": [
-          { "id": "m1", "event": "Uncle Ho's birth year", "correct": "1890" },
-          {
-            "id": "m2",
-            "event": "Uncle Ho went to find a way to save the country",
-            "correct": "1911"
-          },
-          {
-            "id": "m3",
-            "event": "The year of Uncle Ho's death",
-            "correct": "1969"
-          },
-          {
-            "id": "m4",
-            "event": "Uncle Ho read the Declaration of Independence",
-            "correct": "1945"
-          }
-        ]
       }
     ]
   }
