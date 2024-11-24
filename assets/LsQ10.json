@@ -2,24 +2,6 @@
   "quiz": {
     "questions": [
       {
-        "id": 1,
-        "type": "matching",
-        "question": "Match the following buildings to their correct names:",
-        "imgSrc": "https://hailinh-education.netlify.app/assets/quest10pic.jpg",
-        "options": [
-          { "id": "a", "name": "Saigon Central Post Office" },
-          { "id": "b", "name": "Independence Palace" },
-          { "id": "c", "name": "Hanoi Opera House" },
-          { "id": "d", "name": "Saigon Notre-Dame Cathedral Basilica" }
-        ],
-        "matches": [
-          { "id": "1", "correct": "b" },
-          { "id": "2", "correct": "d" },
-          { "id": "3", "correct": "a" },
-          { "id": "4", "correct": "c" }
-        ]
-      },
-      {
         "id": 2,
         "type": "multiple-choice",
         "question": "What is another name for Independence Palace?",
