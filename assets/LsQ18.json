@@ -264,12 +264,20 @@
         "question": "How many oceans are there in the world?",
         "choices": [
           {
-            "text": "3\tB. 4",
+            "text": "3",
             "isCorrect": false
           },
           {
-            "text": "5\tD. 6",
+            "text": "4",
+            "isCorrect": false
+          }
+          {
+            "text": "5",
             "isCorrect": true
+          }
+          {
+            "text": "6",
+            "isCorrect": false
           }
         ]
       }
