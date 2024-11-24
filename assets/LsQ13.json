@@ -207,52 +207,6 @@
             "isCorrect": false
           }
         ]
-      },
-      {
-        "id": 10,
-        "type": "matching",
-        "leftColumn": [
-          "The first time of construction",
-          "The Trần dynasty rebuilt",
-          "The pagoda degraded",
-          "The Nguyễn dynasty renewed",
-          "Destroyed by French soldiers",
-          "The state of our country rebuilt the pagoda"
-        ],
-        "rightColumn": [
-          "1955",
-          "1840-1850, 1922",
-          "1049",
-          "1249",
-          "under Lê Trung Hưng",
-          "1954"
-        ],
-        "correctMatches": [
-          {
-            "left": "The first time of construction",
-            "right": "1049"
-          },
-          {
-            "left": "The Trần dynasty rebuilt",
-            "right": "1840-1850, 1922"
-          },
-          {
-            "left": "The pagoda degraded",
-            "right": "under Lê Trung Hưng"
-          },
-          {
-            "left": "The Nguyễn dynasty renewed",
-            "right": "1249"
-          },
-          {
-            "left": "Destroyed by French soldiers",
-            "right": "1954"
-          },
-          {
-            "left": "The state of our country rebuilt the pagoda",
-            "right": "1955"
-          }
-        ]
       }
     ]
   }
