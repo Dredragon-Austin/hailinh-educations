@@ -184,46 +184,6 @@
             "isCorrect": false
           }
         ]
-      },
-      {
-        "id": 9,
-        "type": "matching",
-        "leftColumn": [
-          "The position of Bach Dang river",
-          "The person who assassinated Duong Dinh Nghe",
-          "The son-in-law of Duong Dinh Nghe",
-          "The leader of the Southern Han army that invaded our country",
-          "The place where Ngo Quyen establish his capital"
-        ],
-        "rightColumn": [
-          "Kieu Cong Tien",
-          "Luu Hoang Thao",
-          "Co Loa",
-          "Quang Ninh - Hai Phong",
-          "Ngo Quyen"
-        ],
-        "correctMatches": [
-          {
-            "left": "The position of Bach Dang river",
-            "right": "Quang Ninh - Hai Phong"
-          },
-          {
-            "left": "The person who assassinated Duong Dinh Nghe",
-            "right": "Kieu Cong Tien"
-          },
-          {
-            "left": "The son-in-law of Duong Dinh Nghe",
-            "right": "Ngo Quyen"
-          },
-          {
-            "left": "The leader of the Southern Han army that invaded our country",
-            "right": "Luu Hoang Thao"
-          },
-          {
-            "left": "The place where Ngo Quyen establish his capital",
-            "right": "Co Loa"
-          }
-        ]
       }
     ]
   }
