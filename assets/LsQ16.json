@@ -223,37 +223,6 @@
             "isCorrect": false
           }
         ]
-      },
-      {
-        "id": 10,
-        "type": "matching",
-        "question": "Match the Southeast Asian countries with their respective capitals.",
-        "options": [
-          { "id": "hanoi", "capital": "Hanoi" },
-          { "id": "vientiane", "capital": "Vientiane" },
-          { "id": "phnompenh", "capital": "Phnom Penh" },
-          { "id": "bangkok", "capital": "Bangkok" },
-          { "id": "bandarseri", "capital": "Bandar Seri Begawan" },
-          { "id": "naypyidaw", "capital": "Naypyidaw" },
-          { "id": "manila", "capital": "Manila" },
-          { "id": "singapore", "capital": "Singapore" },
-          { "id": "kualalumpur", "capital": "Kuala Lumpur" },
-          { "id": "jakarta", "capital": "Jakarta" },
-          { "id": "dili", "capital": "Dili" }
-        ],
-        "matches": [
-          { "id": "m1", "country": "Vietnam", "correct": "hanoi" },
-          { "id": "m2", "country": "Laos", "correct": "vientiane" },
-          { "id": "m3", "country": "Cambodia", "correct": "phnompenh" },
-          { "id": "m4", "country": "Thailand", "correct": "bangkok" },
-          { "id": "m5", "country": "Brunei", "correct": "bandarseri" },
-          { "id": "m6", "country": "Myanmar", "correct": "naypyidaw" },
-          { "id": "m7", "country": "The Philippines", "correct": "manila" },
-          { "id": "m8", "country": "Singapore", "correct": "singapore" },
-          { "id": "m9", "country": "Malaysia", "correct": "kualalumpur" },
-          { "id": "m10", "country": "Indonesia", "correct": "jakarta" },
-          { "id": "m11", "country": "Timor-Leste", "correct": "dili" }
-        ]
       }
     ]
   }
