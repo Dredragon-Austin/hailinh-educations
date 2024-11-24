@@ -71,57 +71,7 @@
           }
         ]
       },
-      {
-        "id": 4,
-        "type": "matching",
-        "question": "Match the tourist attractions or landmarks with their corresponding provinces:",
-        "options": [
-          { "id": "1", "province": "Hà Giang" },
-          { "id": "2", "province": "Hà Nội" },
-          { "id": "3", "province": "Thanh Hoá" },
-          { "id": "4", "province": "Quảng Ninh" },
-          { "id": "5", "province": "Quảng Nam" },
-          { "id": "6", "province": "Ninh Bình" },
-          { "id": "7", "province": "Quảng Bình" }
-        ],
-        "matches": [
-          {
-            "id": "m1",
-            "location": "Hạ Long Bay",
-            "correct": "4"
-          },
-          {
-            "id": "m2",
-            "location": "Phong Nha – Kẻ Bàng national park",
-            "correct": "7"
-          },
-          {
-            "id": "m3",
-            "location": "Dong Van Karst Plateau Geopark",
-            "correct": "1"
-          },
-          {
-            "id": "m4",
-            "location": "Mỹ Sơn Sanctuary",
-            "correct": "5"
-          },
-          {
-            "id": "m5",
-            "location": "The Imperial Citadel of Thăng Long",
-            "correct": "2"
-          },
-          {
-            "id": "m6",
-            "location": "Citadel of Hồ Dynasty",
-            "correct": "3"
-          },
-          {
-            "id": "m7",
-            "location": "Tràng An Scenic Landscape Complex",
-            "correct": "6"
-          }
-        ]
-      },
+     
       {
         "id": 5,
         "type": "multiple-choice",
