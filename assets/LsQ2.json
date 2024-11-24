@@ -246,40 +246,8 @@
             "isCorrect": true
           }
         ]
-      },
-      {
-        "id": 12,
-        "type": "matching",
-        "question": "Matching information in column A and column B correctly:",
-        "options": [
-          { "id": "1", "year": "2095.39 square kilometers" },
-          { "id": "2", "year": "Thu Duc city" },
-          { "id": "3", "year": "21" },
-          { "id": "4", "year": "9.04 Milion people" }
-        ],
-        "matches": [
-          {
-            "id": "m1",
-            "event": "Population of Ho Chi Minh City in 2019",
-            "correct": "4"
-          },
-          {
-            "id": "m2",
-            "event": "Area of Ho Chi Minh City",
-            "correct": "1"
-          },
-          {
-            "id": "m3",
-            "event": "The district is formed from District 9, District 2 and Thu Duc District",
-            "correct": "2"
-          },
-          {
-            "id": "m4",
-            "event": "Number of districts in Ho Chi Minh City",
-            "correct": "3"
-          }
-        ]
       }
+    
     ]
   }
 }
