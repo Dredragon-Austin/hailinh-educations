@@ -16,11 +16,11 @@
           },
           {
             "text": "14.1 million square kilometers",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "15 million square kilometers",
-            "isCorrect": true
+            "isCorrect": false
           }
         ]
       },
@@ -39,11 +39,11 @@
           },
           {
             "text": "- 94.5℃",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "- 100℃",
-            "isCorrect": true
+            "isCorrect": false
           }
         ]
       },
