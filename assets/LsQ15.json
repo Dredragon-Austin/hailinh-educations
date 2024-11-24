@@ -146,7 +146,7 @@
         "choices": [
           {
             "text": "Placing online orders.",
-            "isCorrect": true
+            "isCorrect": false
           },
           {
             "text": "Ordering food online.",
@@ -158,7 +158,7 @@
           },
           {
             "text": "Hiring hourly domestic help.",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -169,7 +169,7 @@
         "choices": [
           {
             "text": "Graduates that look for job opportunities",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "text": "Parents that seek tutors for their children",
@@ -181,7 +181,7 @@
           },
           {
             "text": "Restaurants that look for employees",
-            "isCorrect": true
+            "isCorrect": false
           }
         ]
       },
