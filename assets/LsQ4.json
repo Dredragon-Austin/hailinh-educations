@@ -140,54 +140,6 @@
             "isCorrect": false
           }
         ]
-      },
-      {
-        "id": 7,
-        "type": "matching",
-        "question": "Match the historical figures with their associated information:",
-        "options": [
-          { "id": "1", "info": "Crushing an orange." },
-          { "id": "2", "info": "The poem Nam Quốc Sơn Hà" },
-          {
-            "id": "3",
-            "info": "I will never bend my back as a concubine for anyone."
-          },
-          {
-            "id": "4",
-            "info": "I would rather be the devil of the South than the king of the North"
-          },
-          {
-            "id": "5",
-            "info": "The distinguished general who won three victories against the Mongol Yuan armies."
-          }
-        ],
-        "matches": [
-          {
-            "id": "m1",
-            "name": "Trần Hưng Đạo",
-            "correct": "5"
-          },
-          {
-            "id": "m2",
-            "name": "Triệu Thị Trinh",
-            "correct": "3"
-          },
-          {
-            "id": "m3",
-            "name": "Trần Bình Trọng",
-            "correct": "4"
-          },
-          {
-            "id": "m4",
-            "name": "Trần Quốc Toản",
-            "correct": "1"
-          },
-          {
-            "id": "m5",
-            "name": "Lý Thường Kiệt",
-            "correct": "2"
-          }
-        ]
       }
     ]
   }
